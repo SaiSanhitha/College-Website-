@@ -1,4 +1,5 @@
-#HEART DISEASE CLASSIFICATION USING MACHINE LEARNING
+HEART DISEASE CLASSIFICATION USING MACHINE LEARNING
+
 Prediction of occurrences of heart disease in the medical field is significant work. The storage data can be useful for the source of predicting the occurrence of feature disease. In the project, we try to concentrate on heart disease prediction.
 Machine learning technique used to predict heart disease is Support Vector Machine (SVM). 
  Jupyter Notebook: To support interactive data science and scientific computing
