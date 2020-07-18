@@ -5,4 +5,5 @@ In the project, we try to concentrate on heart disease prediction. Machine learn
 Softwares Used:
 
 Jupyter Notebook: To support interactive data science and scientific computing across all programming languages. 
+
 Python: It is an interpreted, high-level, general-purpose programming language.
